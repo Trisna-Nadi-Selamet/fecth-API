@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Belajar Json",
+      "status": true
+    },
+    {
+      "id": 2,
+      "task": "Belajar Server",
+      "status": true
+    },
+    {
+      "id": 3,
+      "task": "Belajar Json",
+      "status": false
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "task": "Belajar Json",
+      "status": true
+    },
+    {
+      "id": 2,
+      "task": "Belajar Server",
+      "status": true
+    },
+    {
+      "id": 3,
+      "task": "Belajar Json",
+      "status": false
+    }
+  ]
+}

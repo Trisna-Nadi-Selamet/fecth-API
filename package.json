@@ -1,0 +1,24 @@
+{
+  "name": "fecth-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "connection",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trisna-Nadi-Selamet/fecth-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trisna-Nadi-Selamet/fecth-API/issues"
+  },
+  "homepage": "https://github.com/Trisna-Nadi-Selamet/fecth-API#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json-server": "^0.16.3"
+  }
+}
