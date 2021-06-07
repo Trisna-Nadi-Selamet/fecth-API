@@ -1,22 +1,37 @@
 {
-  "todos": [
+  "blogs": [
     {
       "id": 1,
-      "task": "Belajar Json",
-      "status": true
+      "title": "Belajar Rest API",
+      "content": "",
+      "author": "trisna",
+      "tags": "test",
+      "status": "update",
+      "createAdt": "27-06-2021",
+      "UserId": 1
     },
     {
       "id": 2,
-      "task": "Belajar Server",
-      "status": true
+      "title": "Belajar Json API",
+      "content": "",
+      "author": "trisna",
+      "tags": "test",
+      "status": "update",
+      "createAdt": "27-06-2021",
+      "UserId": 1
     },
     {
       "id": 3,
-      "task": "Belajar Json",
-      "status": false
+      "title": "Belajar Front End Json API",
+      "content": "",
+      "author": "trisna",
+      "tags": "test",
+      "status": "update",
+      "createAdt": "27-06-2021",
+      "UserId": 1
     }
   ],
-  "data": [
+  "post": [
     {
       "id": 1,
       "task": "Belajar Json",
