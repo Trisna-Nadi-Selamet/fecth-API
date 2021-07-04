@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Trisna-Nadi-Selamet/fecth-API#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "react-bootstrap": "^1.6.1"
   }
 }
